@@ -1,9 +1,25 @@
-### Hi there 👋, meu nome é Welligthon
-#### Eu sou Desenvolvedor Full Stack
+# Olá! 👋 Eu sou o Welligthon, Desenvolvedor Full Stack
 
-Desde a infância estive conectado com a tecnologia, tenho grande paixão por efeitos de UI, animações e pela criação de experiências de usuário intuitivas e dinâmicas. 
+Desde a infância, estive imerso no mundo da tecnologia, nutrindo uma paixão ardente por efeitos de UI, animações e pela criação de experiências de usuário intuitivas e dinâmicas.
 
-Skills: JS / HTML / CSS / BOOTSTRAP / REACT / 
+## 💻 Tecnologias e Ferramentas
+- JavaScript (JS)
+- HTML
+- CSS
+- Bootstrap
+- React
 
-Veja o meu portfólio: https://welligthon.com/
+## 🌟 Habilidades
+- Desenvolvimento Frontend e Backend
+- Design de Interfaces de Usuário (UI)
+- Animações e Efeitos
+- Resolução de Problemas Criativos
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
+## 📬 Vamos Conversar!
+- LinkedIn: [Welligthon](https://www.linkedin.com/in/welligthon-paluchowski/)
+
+Sinta-se à vontade para explorar meu [portfólio](https://welligthon.com/) e descobrir mais sobre meu trabalho!
 
