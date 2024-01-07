@@ -16,7 +16,8 @@ Desde a infância, estive imerso no mundo da tecnologia, nutrindo uma paixão ar
 - Resolução de Problemas Criativos
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=welligthon&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
 
 ## 📬 Vamos Conversar!
 - LinkedIn: [Welligthon](https://www.linkedin.com/in/welligthon-paluchowski/)
