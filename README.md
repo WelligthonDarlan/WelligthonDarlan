@@ -20,12 +20,7 @@ Desde a infância, estive imerso no mundo da tecnologia, nutrindo uma paixão ar
 
 
 ## 📬 Vamos Conversar!
+
 - LinkedIn: [Welligthon](https://www.linkedin.com/in/welligthon-paluchowski/)
 
 Sinta-se à vontade para explorar meu [portfólio](https://welligthon.com/) e descobrir mais sobre meu trabalho!
-
-[![](https://visitcount.itsvg.in/api?id=Welligthon&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Welligthon&label=Profile%20Views&color=6&pretty=true" />
-</a>
