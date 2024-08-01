@@ -5,7 +5,7 @@
 
 Sou um desenvolvedor apaixonado, com experiência em criar experiências de usuário intuitivas e dinâmicas. Desde cedo, desenvolvi habilidades de programação ao criar mods e mapas para jogos como Counter-Strike e Skyrim. Minha paixão por efeitos de UI e animações me guia, e meu objetivo é me tornar um desenvolvedor Full-Stack Sênior.
 
-Além das habilidades de desenvolvimento, tenho experiência em edição de vídeo e imagem, adquirida em um projeto de animação no YouTube, onde aprendi sobre edição, tratamento de áudio e gestão de redes sociais. Tenho facilidade para absorver novas tecnologias rapidamente e manter excelente organização em meus projetos, trabalhando bem tanto em equipe quanto individualmente.
+Além das habilidades de desenvolvimento, tenho experiência em edição de vídeo e imagem, adquirida em um projeto de animação no YouTube(Mais informações no meu portfólio), onde aprendi sobre edição, tratamento de áudio e gestão de redes sociais. Tenho facilidade para absorver novas tecnologias rapidamente e manter excelente organização em meus projetos, trabalhando bem tanto em equipe quanto individualmente.
 
 #
 ### 💻 Tecnologias e Ferramentas
