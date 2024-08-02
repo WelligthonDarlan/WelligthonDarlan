@@ -1,11 +1,11 @@
 # Oi, sou <span><img align="center" alt="welligthon" height="160" width="400" src="https://lh3.googleusercontent.com/pw/AP1GczPQO2G0QhU0NH7n4CIPzjO496kG2aSsfhsgypHxzvptUgeqFrBU63e0xLmGGW4tsGgouWYfm20Z6vYaNMzTotFgJKYrk3n3zDb9D4zHzYaBmh3fzYnF3Wc2jSnF0h_lySIu3iaOxZESKHRiascbrI4W=w1000-h300-s-no-gm?authuser=0" /></span>, Desenvolvedor Full Stack
 
 
-<a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Rafa-Js" height="60" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0" target="_blank"></a> 
+<a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Rafa-Js" height="60" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0"></a> 
 
 Sou um desenvolvedor apaixonado, com experiência em criar experiências de usuário intuitivas e dinâmicas. Desde cedo, desenvolvi habilidades de programação ao criar mods e mapas para jogos como Counter-Strike e Skyrim. Minha paixão por efeitos de UI e animações me guia, e meu objetivo é me tornar um desenvolvedor Full-Stack Sênior.
 
-Além das habilidades de desenvolvimento, tenho experiência em edição de vídeo e imagem, adquirida em um projeto de animação no YouTube(Mais informações no meu portfólio), onde aprendi sobre edição, tratamento de áudio e gestão de redes sociais. Tenho facilidade para absorver novas tecnologias rapidamente e manter excelente organização em meus projetos, trabalhando bem tanto em equipe quanto individualmente.
+Além das habilidades de desenvolvimento, tenho experiência em edição de vídeo e imagem, adquirida em um projeto de animação no YouTube <a href="https://www.youtube.com/watch?v=xTWszPBTk3Y" target="_blank">"Verificar projeto"</a>, onde aprendi sobre edição, tratamento de áudio e gestão de redes sociais. Tenho facilidade para absorver novas tecnologias rapidamente e manter excelente organização em meus projetos, trabalhando bem tanto em equipe quanto individualmente.
 
 #
 ### 💻 Tecnologias e Ferramentas
@@ -73,12 +73,12 @@ Além das habilidades de desenvolvimento, tenho experiência em edição de víd
   ##
  
 <div> 
-  <a href="https://www.instagram.com/well_ligth_on/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/welligthon-paluchowski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:welldarlan.pw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/48988240117?text=Ol%C3%A1%20Wellighon,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/well_ligth_on/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/welligthon-paluchowski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:welldarlan.pw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/48988240117?text=Ol%C3%A1%20Wellighon,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
 ##
 
-Sinta-se à vontade para explorar meu<a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Rafa-Js" height="50" width="150" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0" target="_blank"></a>e descobrir mais sobre meu trabalho!
+Sinta-se à vontade para explorar meu<a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Rafa-Js" height="50" width="150" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0"></a>e descobrir mais sobre meu trabalho!
