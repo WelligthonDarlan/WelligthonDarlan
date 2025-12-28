@@ -3,17 +3,17 @@
 
 <a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Well-Js" height="60" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0"></a> 
 
-<h2>Perfil Profissional: Desenvolvedor Full-Stack</h2>
-<h3>Desenvolvedor Full-Stack com foco em arquitetura escalável e entrega de ponta a ponta.</h3>
+<h2>Perfil Profissional: Desenvolvedor Full-Stack</h2><br>
+<h3>Desenvolvedor Full-Stack com foco em arquitetura escalável e entrega de ponta a ponta.</h3><br>
 
-Tenho sólida proficiência na construção de ecossistemas digitais do zero, desde a configuração de ambientes e infraestrutura de servidores até a modelagem de bancos de dados e desenvolvimento de interfaces dinâmicas. Minha abordagem de trabalho é guiada por Clean Code e Design Patterns, garantindo que o código seja não apenas funcional, mas sustentável e de fácil manutenção.
+Tenho sólida proficiência na construção de ecossistemas digitais do zero, desde a configuração de ambientes e infraestrutura de servidores até a modelagem de bancos de dados e desenvolvimento de interfaces dinâmicas. Minha abordagem de trabalho é guiada por Clean Code e Design Patterns, garantindo que o código seja não apenas funcional, mas sustentável e de fácil manutenção.<br>
 
-Destaques Técnicos e Acadêmicos:
-• <b>Domínio do Ciclo de Vida:</b> Experiência prática em configurar ambientes de desenvolvimento, deploy e estruturação completa de bancos de dados (Relacionais e Não-Relacionais).
-• <b>Arquitetura e Paradigmas:</b> Sólido conhecimento em Orientação a Objetos (POO) e aplicação de padrões de projeto para resolver problemas complexos de software.
-• <b>Evolução Contínua:</b> Graduando em Análise e Desenvolvimento de Sistemas (fase final) com ingresso imediato em Engenharia de Software, mantendo o foco acadêmico alinhado às demandas de engenharia de alto nível.
+Destaques Técnicos e Acadêmicos:<br>
+• <b>Domínio do Ciclo de Vida:</b> Experiência prática em configurar ambientes de desenvolvimento, deploy e estruturação completa de bancos de dados (Relacionais e Não-Relacionais).<br>
+• <b>Arquitetura e Paradigmas:</b> Sólido conhecimento em Orientação a Objetos (POO) e aplicação de padrões de projeto para resolver problemas complexos de software.<br>
+• <b>Evolução Contínua:</b> Graduando em Análise e Desenvolvimento de Sistemas (fase final) com ingresso imediato em Engenharia de Software, mantendo o foco acadêmico alinhado às demandas de engenharia de alto nível.<br>
 
-Minhas <b>soft skills</b> são um pilar central na minha atuação: possuo alta capacidade de aprendizado autodidata para novas ferramentas, excelente comunicação técnica e organização rigorosa em projetos colaborativos. Meu objetivo é consolidar uma carreira como Full-Stack Sênior, unindo fundamentos acadêmicos robustos com a agilidade prática exigida pelo mercado.
+Minhas <b>soft skills</b> são um pilar central na minha atuação: possuo alta capacidade de aprendizado autodidata para novas ferramentas, excelente comunicação técnica e organização rigorosa em projetos colaborativos. Meu objetivo é consolidar uma carreira como Full-Stack Sênior, unindo fundamentos acadêmicos robustos com a agilidade prática exigida pelo mercado.<br>
 
 #
 ### 💻 Tecnologias e Ferramentas
