@@ -1,7 +1,7 @@
 # Oi, sou <span><img align="center" alt="welligthon" height="160" width="400" src="https://lh3.googleusercontent.com/pw/AP1GczPQO2G0QhU0NH7n4CIPzjO496kG2aSsfhsgypHxzvptUgeqFrBU63e0xLmGGW4tsGgouWYfm20Z6vYaNMzTotFgJKYrk3n3zDb9D4zHzYaBmh3fzYnF3Wc2jSnF0h_lySIu3iaOxZESKHRiascbrI4W=w1000-h300-s-no-gm?authuser=0" /></span>, Desenvolvedor Full Stack
 
 
-<a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Rafa-Js" height="60" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0"></a> 
+<a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Well-Js" height="60" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0"></a> 
 
 Sou um desenvolvedor apaixonado, com experiência em criar experiências de usuário intuitivas e dinâmicas. Desde cedo, desenvolvi habilidades de programação ao criar mods e mapas para jogos como Counter-Strike e Skyrim. Minha paixão por efeitos de UI e animações me guia, e meu objetivo é me tornar um desenvolvedor Full-Stack Sênior.
 
@@ -21,12 +21,12 @@ Além das habilidades de desenvolvimento, tenho experiência em edição de víd
   <img title="PHP" align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" />   
   <img title="SQL" align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img title="PostgreSQL" align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />     
-  <img title="Docker" align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original-wordmark.svg">
+  <img title="Docker" align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg">
   <img title="Python" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img title="Linux" align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img title="Photoshop" align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img title="Gimp" align="center" alt="Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
-  <img title="Animator" align="center" alt="Animator" height="25" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQv-rVfmkLU3oB7olYvu8FhOf_WMj8R3EIkERUNqNGiqNLMwxMq8drrEMhjWb9V1P-LSY&usqp=CAU" />
+  <img title="TailwindCSS" align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img title="NextJS" align="center" alt="NextJS" height="25" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-line-wordmark.svg" />
   <img title="Java" align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img title="Burp Suite" align="center" alt="BurpSuite" height="30" width="30" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T949A2PA1996PT25X5Y10D1048988355W5014H5015CxFF6633%3AxFFFFFF/views/1,width=650,height=650,appearanceId=2,backgroundColor=ffffff/burp-suite-icon.jpg" />  
 </div>
