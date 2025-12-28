@@ -22,12 +22,10 @@ Além das habilidades de desenvolvimento, tenho experiência em edição de víd
   <img title="SQL" align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img title="PostgreSQL" align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />     
   <img title="Docker" align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg">
-  <img title="Python" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img title="Linux" align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img title="Photoshop" align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img title="TailwindCSS" align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img title="NextJS" align="center" alt="NextJS" height="25" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-line-wordmark.svg" />
-  <img title="Java" align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img title="NextJS" align="center" alt="NextJS" height="30" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-line-wordmark.svg" />
   <img title="Burp Suite" align="center" alt="BurpSuite" height="30" width="30" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T949A2PA1996PT25X5Y10D1048988355W5014H5015CxFF6633%3AxFFFFFF/views/1,width=650,height=650,appearanceId=2,backgroundColor=ffffff/burp-suite-icon.jpg" />  
 </div>
 
