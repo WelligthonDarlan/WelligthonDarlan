@@ -12,7 +12,7 @@ Além das habilidades de desenvolvimento, tenho experiência em edição de víd
 
 <div style="display: inline_block">
   <img title="React" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="NextJS" align="center" alt="NextJS" height="50" width="80" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-line-wordmark.svg" />
+  <img title="NextJS" align="center" alt="NextJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" />
   <img title="TailwindCSS" align="center" alt="TailwindCSS" height="50" width="80" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img title="NodeJs" align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img title="JavaScrip" align="center" alt="JavaScrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
