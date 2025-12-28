@@ -3,9 +3,17 @@
 
 <a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Well-Js" height="60" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0"></a> 
 
-Sou um desenvolvedor apaixonado, com experiência em criar experiências de usuário intuitivas e dinâmicas. Desde cedo, desenvolvi habilidades de programação ao criar mods e mapas para jogos como Counter-Strike e Skyrim. Minha paixão por efeitos de UI e animações me guia, e meu objetivo é me tornar um desenvolvedor Full-Stack Sênior.
+<h2>Perfil Profissional: Desenvolvedor Full-Stack</h2>
+<h3>Desenvolvedor Full-Stack com foco em arquitetura escalável e entrega de ponta a ponta.</h3>
 
-Além das habilidades de desenvolvimento, tenho experiência em edição de vídeo e imagem, adquirida em um projeto de animação no YouTube <a href="https://www.youtube.com/watch?v=xTWszPBTk3Y" target="_blank">"Verificar projeto"</a>, onde aprendi sobre edição, tratamento de áudio e gestão de redes sociais. Tenho facilidade para absorver novas tecnologias rapidamente e manter excelente organização em meus projetos, trabalhando bem tanto em equipe quanto individualmente.
+Tenho sólida proficiência na construção de ecossistemas digitais do zero, desde a configuração de ambientes e infraestrutura de servidores até a modelagem de bancos de dados e desenvolvimento de interfaces dinâmicas. Minha abordagem de trabalho é guiada por Clean Code e Design Patterns, garantindo que o código seja não apenas funcional, mas sustentável e de fácil manutenção.
+
+Destaques Técnicos e Acadêmicos:
+• <b>Domínio do Ciclo de Vida:</b> Experiência prática em configurar ambientes de desenvolvimento, deploy e estruturação completa de bancos de dados (Relacionais e Não-Relacionais).
+• <b>Arquitetura e Paradigmas:</b> Sólido conhecimento em Orientação a Objetos (POO) e aplicação de padrões de projeto para resolver problemas complexos de software.
+• <b>Evolução Contínua:</b> Graduando em Análise e Desenvolvimento de Sistemas (fase final) com ingresso imediato em Engenharia de Software, mantendo o foco acadêmico alinhado às demandas de engenharia de alto nível.
+
+Minhas <b>soft skills</b> são um pilar central na minha atuação: possuo alta capacidade de aprendizado autodidata para novas ferramentas, excelente comunicação técnica e organização rigorosa em projetos colaborativos. Meu objetivo é consolidar uma carreira como Full-Stack Sênior, unindo fundamentos acadêmicos robustos com a agilidade prática exigida pelo mercado.
 
 #
 ### 💻 Tecnologias e Ferramentas
@@ -13,7 +21,7 @@ Além das habilidades de desenvolvimento, tenho experiência em edição de víd
 <div style="display: inline_block">
   <img title="React" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img title="NextJS" align="center" alt="NextJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" />
-  <img title="TailwindCSS" align="center" alt="TailwindCSS" height="50" width="80" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img title="TailwindCSS" align="center" alt="TailwindCSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img title="NodeJs" align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img title="JavaScrip" align="center" alt="JavaScrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="TypeScrip" align="center" alt="TypeScrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -52,8 +60,8 @@ Além das habilidades de desenvolvimento, tenho experiência em edição de víd
     - Desenvolvimento Frontend e Backend<br>
     - Conhecimento de metodologia SCRUM<br>
     - Design de Interfaces de Usuário (UI)<br>
-    - Animações e Efeitos<br>
-    - Resolução de Problemas Criativos<br>
+    - Animações e Efeitos visuais<br>
+    - Resolução de Problemas de forma criativa<br>
     - Desenvolvimento de APIs RESTful<br>
     - Experiência com ferramentas de versionamento de código (Git)<br>
     - Otimização de performance de aplicações<br>
