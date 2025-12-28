@@ -3,7 +3,7 @@
 
 <a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Well-Js" height="60" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0"></a> 
 
-<h2>Perfil Profissional: Desenvolvedor Full-Stack</h2><br>
+<h2>Perfil Profissional: Desenvolvedor Full-Stack</h2>
 <h3>Desenvolvedor Full-Stack com foco em arquitetura escalável e entrega de ponta a ponta.</h3><br>
 
 Tenho sólida proficiência na construção de ecossistemas digitais do zero, desde a configuração de ambientes e infraestrutura de servidores até a modelagem de bancos de dados e desenvolvimento de interfaces dinâmicas. Minha abordagem de trabalho é guiada por Clean Code e Design Patterns, garantindo que o código seja não apenas funcional, mas sustentável e de fácil manutenção.<br>
