@@ -12,20 +12,20 @@ Além das habilidades de desenvolvimento, tenho experiência em edição de víd
 
 <div style="display: inline_block">
   <img title="React" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="NextJS" align="center" alt="NextJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-line-wordmark.svg" />
+  <img title="TailwindCSS" align="center" alt="TailwindCSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img title="NodeJs" align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img title="JavaScrip" align="center" alt="JavaScrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="TypeScrip" align="center" alt="TypeScrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img title="PostgreSQL" align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />     
+  <img title="Docker" align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg">
   <img title="HTML" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="Bootstrap" align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img title="PHP" align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" />   
-  <img title="SQL" align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img title="PostgreSQL" align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />     
-  <img title="Docker" align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg">
   <img title="Linux" align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img title="SQL" align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img title="Photoshop" align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img title="TailwindCSS" align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img title="NextJS" align="center" alt="NextJS" height="30" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-line-wordmark.svg" />
   <img title="Burp Suite" align="center" alt="BurpSuite" height="30" width="30" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T949A2PA1996PT25X5Y10D1048988355W5014H5015CxFF6633%3AxFFFFFF/views/1,width=650,height=650,appearanceId=2,backgroundColor=ffffff/burp-suite-icon.jpg" />  
 </div>
 
