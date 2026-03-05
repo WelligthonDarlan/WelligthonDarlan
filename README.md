@@ -78,18 +78,15 @@ const welligthon: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/WelligthonDarlan">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WelligthonDarlan&show_icons=true&theme=aura&layout=compact&locale=pt-br&bg_color=0D1117&border_color=FF652F&icon_color=FF652F&title_color=FF652F&text_color=C9D1D9&rank_icon=github&hide_border=false" />
-</a>
-<a href="https://github.com/WelligthonDarlan">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=WelligthonDarlan&show_icons=true&theme=aura&layout=donut&langs_count=8&locale=pt-br&bg_color=0D1117&border_color=FF652F&title_color=FF652F&text_color=C9D1D9" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=WelligthonDarlan&show_icons=true&theme=dark&locale=pt-br&bg_color=0D1117&border_color=FF652F&icon_color=FF652F&title_color=FF652F&text_color=C9D1D9&rank_icon=github" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=WelligthonDarlan&theme=dark&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&border_color=FF652F&title_color=FF652F&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/WelligthonDarlan/WelligthonDarlan/output/github-contribution-grid-snake-dark.svg)
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=WelligthonDarlan&theme=dark&background=0D1117&border=FF652F&ring=FF652F&fire=FF652F&currStreakLabel=FF652F&sideLabels=C9D1D9&dates=C9D1D9&locale=pt_BR" />
 
 </div>
 
