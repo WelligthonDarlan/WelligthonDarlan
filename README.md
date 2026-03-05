@@ -78,9 +78,9 @@ const welligthon: Developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WelligthonDarlan&show_icons=true&theme=dark&locale=pt-br&bg_color=0D1117&border_color=FF652F&icon_color=FF652F&title_color=FF652F&text_color=C9D1D9&rank_icon=github" />
+<img height="180" src="https://github-readme-stats-42ih1pb9h-welligthondarlans-projects.vercel.app/api?username=WelligthonDarlan&show_icons=true&theme=dark&locale=pt-br&bg_color=0D1117&border_color=FF652F&icon_color=FF652F&title_color=FF652F&text_color=C9D1D9&rank_icon=github" />
 &nbsp;
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=WelligthonDarlan&theme=dark&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&border_color=FF652F&title_color=FF652F&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats-42ih1pb9h-welligthondarlans-projects.vercel.app/api/top-langs?username=WelligthonDarlan&theme=dark&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&border_color=FF652F&title_color=FF652F&text_color=C9D1D9" />
 
 </div>
 
