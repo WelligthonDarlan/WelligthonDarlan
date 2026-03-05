@@ -1,90 +1,119 @@
-# Oi, sou <span><img align="center" alt="welligthon" height="160" width="400" src="https://lh3.googleusercontent.com/pw/AP1GczPQO2G0QhU0NH7n4CIPzjO496kG2aSsfhsgypHxzvptUgeqFrBU63e0xLmGGW4tsGgouWYfm20Z6vYaNMzTotFgJKYrk3n3zDb9D4zHzYaBmh3fzYnF3Wc2jSnF0h_lySIu3iaOxZESKHRiascbrI4W=w1000-h300-s-no-gm?authuser=0" /></span>, Desenvolvedor Full Stack
+<div align="center">
 
+```
+██╗    ██╗███████╗██╗     ██╗     ██╗ ██████╗ ████████╗██╗  ██╗ ██████╗ ███╗   ██╗
+██║    ██║██╔════╝██║     ██║     ██║██╔════╝ ╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
+██║ █╗ ██║█████╗  ██║     ██║     ██║██║  ███╗   ██║   ███████║██║   ██║██╔██╗ ██║
+██║███╗██║██╔══╝  ██║     ██║     ██║██║   ██║   ██║   ██╔══██║██║   ██║██║╚██╗██║
+╚███╔███╔╝███████╗███████╗███████╗██║╚██████╔╝   ██║   ██║  ██║╚██████╔╝██║ ╚████║
+ ╚══╝╚══╝ ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
-<a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Well-Js" height="60" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0"></a> 
+### `< Full Stack Developer />` · Arquitetura Escalável · Clean Code · Entrega de Ponta a Ponta
 
-<h2>Perfil Profissional: Desenvolvedor Full-Stack</h2>
-<h3>Desenvolvedor Full-Stack com foco em arquitetura escalável e entrega de ponta a ponta.</h3><br>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-welligthon.com.br-FF652F?style=for-the-badge)](https://welligthon.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Welligthon_Paluchowski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welligthon-paluchowski/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/48988240117?text=Olá%20Welligthon,%20estou%20entrando%20em%20contato%20através%20do%20seu%20perfil!)
 
-Tenho sólida proficiência na construção de ecossistemas digitais do zero, desde a configuração de ambientes e infraestrutura de servidores até a modelagem de bancos de dados e desenvolvimento de interfaces dinâmicas. Minha abordagem de trabalho é guiada por Clean Code e Design Patterns, garantindo que o código seja não apenas funcional, mas sustentável e de fácil manutenção.<br>
-
-Destaques Técnicos e Acadêmicos:<br>
-• <b>Domínio do Ciclo de Vida:</b> Experiência prática em configurar ambientes de desenvolvimento, deploy e estruturação completa de bancos de dados (Relacionais e Não-Relacionais).<br>
-• <b>Arquitetura e Paradigmas:</b> Sólido conhecimento em Orientação a Objetos (POO) e aplicação de padrões de projeto para resolver problemas complexos de software.<br>
-• <b>Evolução Contínua:</b> Graduando em Análise e Desenvolvimento de Sistemas (fase final) com ingresso imediato em Engenharia de Software, mantendo o foco acadêmico alinhado às demandas de engenharia de alto nível.<br>
-
-Minhas <b>soft skills</b> são um pilar central na minha atuação: possuo alta capacidade de aprendizado autodidata para novas ferramentas, excelente comunicação técnica e organização rigorosa em projetos colaborativos. Meu objetivo é consolidar uma carreira como Full-Stack Sênior, unindo fundamentos acadêmicos robustos com a agilidade prática exigida pelo mercado.<br>
-
-#
-### 💻 Tecnologias e Ferramentas
-
-<div style="display: inline_block">
-  <img title="React" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="NextJS" align="center" alt="NextJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" />
-  <img title="TailwindCSS" align="center" alt="TailwindCSS" height="80" width="80" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img title="NodeJs" align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img title="JavaScrip" align="center" alt="JavaScrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="TypeScrip" align="center" alt="TypeScrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img title="PostgreSQL" align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />     
-  <img title="Docker" align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg">
-  <img title="HTML" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="Bootstrap" align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img title="PHP" align="center" alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" />   
-  <img title="Linux" align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img title="SQL" align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img title="Photoshop" align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img title="Burp Suite" align="center" alt="BurpSuite" height="30" width="30" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T949A2PA1996PT25X5Y10D1048988355W5014H5015CxFF6633%3AxFFFFFF/views/1,width=650,height=650,appearanceId=2,backgroundColor=ffffff/burp-suite-icon.jpg" />  
 </div>
 
-##
+---
 
-### 📈 Estatísticas do GitHub
+## `whoami`
+
+```typescript
+const welligthon: Developer = {
+  role:       "Full Stack Developer",
+  focus:      ["Arquitetura Escalável", "Clean Architecture", "Design Patterns"],
+  education:  "ADS → Engenharia de Software",
+  mindset:    "Do zero ao deploy — com código sustentável e de fácil manutenção",
+  currently:  "Construindo ecossistemas digitais robustos",
+};
+```
+
+> Construo sistemas do zero: **infraestrutura → banco de dados → API → interface**. Minha abordagem é guiada por **Clean Code** e **Design Patterns** — código que não é apenas funcional, mas sustentável.
+
+---
+
+## `stack.json`
+
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### 🔧 Backend & Infra
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## `git log --oneline --skills`
+
+```
+✅  Desenvolvimento Frontend & Backend
+✅  APIs RESTful + Autenticação & Autorização
+✅  Modelagem de Banco de Dados (Relacional & NoSQL)
+✅  Arquitetura OOP + Clean Architecture + Design Patterns
+✅  Testes Unitários & de Integração (QA)
+✅  CI/CD — Integração e Entrega Contínua
+✅  UI/UX — Interfaces dinâmicas e acessíveis
+✅  Versionamento com Git & GitHub
+✅  Metodologia Ágil (SCRUM)
+✅  Performance & Otimização de Aplicações
+```
+
+---
+
+## `github --stats`
+
+<div align="center">
 
 <a href="https://github.com/WelligthonDarlan">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WelligthonDarlan&show_icons=true&theme=aura&layout=compact&langs_count=8&card_width=320&locale=pt-br&bg_color=DEG,1A1B27,0D1117&border_color=FF652F&icon_color=FF652F&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WelligthonDarlan&show_icons=true&theme=aura&layout=compact&locale=pt-br&bg_color=0D1117&border_color=FF652F&icon_color=FF652F&title_color=FF652F&text_color=C9D1D9&rank_icon=github&hide_border=false" />
 </a>
 <a href="https://github.com/WelligthonDarlan">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WelligthonDarlan&show_icons=true&theme=aura&layout=donut&langs_count=8&card_width=320&locale=pt-br&bg_color=DEG,1A1B27,0D1117&border_color=FF652F" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=WelligthonDarlan&show_icons=true&theme=aura&layout=donut&langs_count=8&locale=pt-br&bg_color=0D1117&border_color=FF652F&title_color=FF652F&text_color=C9D1D9" />
 </a>
 
-##
-## 🌟 Habilidades
-
-<table>
-  <tr>
-    <td style="width: 100%; text-align: right;">
-      <img align="center" alt="well-gif" height="300" width="300" src="https://lh3.googleusercontent.com/pw/AP1GczNr6PdCw3fzcDb8OxtWg1gv30r39wzfRUbqNSxJvKhs_iDvkAfA7S6QwCuYYx_e0ki2LVXxIi_GcGxsgMXSGmHtpEUx-vwzNNL5WQ16DUjU9PLafIpJ2D_D1ihoPmeMKzN6uiseXUYNUwZTAimbjKe0=w798-h801-s-no-gm?authuser=0">
-    </td>
-   <td style="width: 100%;">
-    - Desenvolvimento Frontend e Backend<br>
-    - Conhecimento de metodologia SCRUM<br>
-    - Design de Interfaces de Usuário (UI)<br>
-    - Animações e Efeitos visuais<br>
-    - Resolução de Problemas de forma criativa<br>
-    - Desenvolvimento de APIs RESTful<br>
-    - Experiência com ferramentas de versionamento de código (Git)<br>
-    - Otimização de performance de aplicações<br>
-    - Testes e Garantia de Qualidade (QA)<br>
-    - Conhecimento de bancos de dados relacionais e não relacionais<br>
-    - Capacidade de trabalhar com frameworks modernos (React, Angular, Vue)<br>
-    - Integração contínua e entrega contínua (CI/CD)<br>
-  </td> 
-  </tr>
-</table>
-
-### 📬 Vamos Conversar!
-
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/well_ligth_on/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/welligthon-paluchowski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:welldarlan.pw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/48988240117?text=Ol%C3%A1%20Wellighon,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-##
+<div align="center">
 
-Sinta-se à vontade para explorar meu<a href="https://welligthon.com.br/" target="_blank"><img title="Portfólio" align="center" alt="Rafa-Js" height="50" width="150" src="https://lh3.googleusercontent.com/pw/AP1GczO06SIutk1t3QbVx8rSojmQu60pl3LawTH0una0Dermh0avO_7I-3RU3eDfWZ_cYp_Xujb7WMPTFB773k9mjZ2N4cz6ce40KqhCSVMsoY-R9xqX3Q2xcreUK_ohADFCGC4rzBjX8I7eXrP6qmz1w9Er=w1000-h300-s-no-gm?authuser=0"></a>e descobrir mais sobre meu trabalho!
+![Snake animation](https://raw.githubusercontent.com/WelligthonDarlan/WelligthonDarlan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## `connect --with-me`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/well_ligth_on/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welligthon-paluchowski/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welldarlan.pw@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/48988240117?text=Olá%20Welligthon,%20estou%20entrando%20em%20contato%20através%20do%20seu%20perfil!)
+[![Portfolio](https://img.shields.io/badge/Portfólio-FF652F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://welligthon.com.br/)
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=WelligthonDarlan&color=FF652F&style=flat-square&label=Visitas+ao+perfil)
+
+```
+"Código limpo não é escrito seguindo um conjunto de regras.
+ Você não se torna um artesão de software aprendendo uma lista de heurísticas.
+ O profissionalismo e o artesanato vêm de valores que impulsionam disciplinas."
+                                                        — Robert C. Martin
+```
+
+</div>
